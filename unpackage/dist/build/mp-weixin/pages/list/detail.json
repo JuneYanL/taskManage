@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "清单详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-navbar": "/uni_modules/uview-ui/components/u-navbar/u-navbar",
+    "u-tag": "/uni_modules/uview-ui/components/u-tag/u-tag",
+    "u-calendar": "/uni_modules/uview-ui/components/u-calendar/u-calendar"
+  }
+}

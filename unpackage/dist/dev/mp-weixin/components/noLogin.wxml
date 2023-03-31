@@ -1,0 +1,1 @@
+<view><u-action-sheet vue-id="ecd1cc2e-1" actions="{{list1}}" title="{{title1}}" show="{{show}}" closeOnClickOverlay="{{true}}" closeOnClickAction="{{true}}" data-event-opts="{{[['^select',[['selectClick']]],['^close',[['clickClose']]]]}}" bind:select="__e" bind:close="__e" bind:__l="__l"></u-action-sheet></view>

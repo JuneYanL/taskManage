@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.iconjia {
+  position: fixed;
+  right: 50rpx;
+  bottom: 100rpx;
+  color: #ff5566;
+  border: 3px solid #ff5566;
+  border-radius: 999rpx;
+  font-size: 60rpx;
+  z-index: 999;
+}
+

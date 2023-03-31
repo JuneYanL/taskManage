@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "u-action-sheet": "/uni_modules/uview-ui/components/u-action-sheet/u-action-sheet"
+  },
+  "component": true
+}

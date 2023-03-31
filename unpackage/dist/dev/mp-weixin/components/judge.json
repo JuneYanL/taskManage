@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button",
+    "u-radio-group": "/uni_modules/uview-ui/components/u-radio-group/u-radio-group",
+    "u-radio": "/uni_modules/uview-ui/components/u-radio/u-radio",
+    "choice-selected": "/components/ChoiceSelected"
+  }
+}

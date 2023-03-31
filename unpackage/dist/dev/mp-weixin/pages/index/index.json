@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "u-navbar": "/uni_modules/uview-ui/components/u-navbar/u-navbar",
+    "u-notice-bar": "/uni_modules/uview-ui/components/u-notice-bar/u-notice-bar",
+    "u--text": "/uni_modules/uview-ui/components/u--text/u--text",
+    "no-login": "/components/noLogin"
+  }
+}

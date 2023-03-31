@@ -1,0 +1,59 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/my/my",
+    "pages/list/list",
+    "pages/demo/demo",
+    "pages/user/login",
+    "pages/user/register",
+    "pages/list/detail",
+    "components/listType",
+    "pages/waitTask/waitTask",
+    "pages/waitTask/group",
+    "pages/waitTask/task"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#797e83",
+    "selectedColor": "#ff5566",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/icon/index.png",
+        "selectedIconPath": "static/icon/index1.png"
+      },
+      {
+        "text": "清单",
+        "pagePath": "pages/list/list",
+        "iconPath": "static/icon/list.png",
+        "selectedIconPath": "static/icon/list1.png"
+      },
+      {
+        "text": "任务",
+        "pagePath": "pages/waitTask/waitTask",
+        "iconPath": "static/icon/wait.png",
+        "selectedIconPath": "static/icon/wait1.png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/my/my",
+        "iconPath": "static/icon/user.png",
+        "selectedIconPath": "static/icon/user1.png"
+      },
+      {
+        "text": "demo",
+        "pagePath": "pages/demo/demo"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

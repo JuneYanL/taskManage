@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.avatar {
+  width: 150rpx;
+  height: 150rpx;
+  border-radius: 50%;
+  margin-top: 100rpx;
+}
+.logoutbtn {
+  position: fixed;
+  bottom: 50rpx;
+  width: 100%;
+  color: white;
+  background-color: #ff5566;
+}
+

@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+view.data-v-fbda4e8a, scroll-view.data-v-fbda4e8a, swiper-item.data-v-fbda4e8a {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  flex-grow: 0;
+  flex-basis: auto;
+  align-items: stretch;
+  align-content: flex-start;
+}
+

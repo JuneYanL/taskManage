@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "清单详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-navbar": "/uni_modules/uview-ui/components/u-navbar/u-navbar",
+    "u-datetime-picker": "/uni_modules/uview-ui/components/u-datetime-picker/u-datetime-picker",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button",
+    "judge": "/components/judge"
+  }
+}
